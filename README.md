@@ -16,4 +16,4 @@ This is a simple converstion program built using Java. The program converts meas
    Make sure you have [Java installed](https://www.java.com/en/download/). After downloading the JAR file, run the following command in your terminal:
    
    ```bash
-   java -jar memory_game.jar
+   java -jar conversion_program.jar
